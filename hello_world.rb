@@ -1,3 +1,2 @@
-puts "Hello World!"
-puts "hello gracie"
+puts "2 + 2 = 5"
 
