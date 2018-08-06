@@ -1,6 +1,1 @@
-puts "gracie" 
-puts "GRACIE" .downcase
-puts "gracie" .reverse
-puts "gRacie" .swapcase
-puts "gracie" .capitalize
-puts "gracie" .length
+puts "i love kode with klossy" .upcase .length
