@@ -1,2 +1,2 @@
 puts "gracie" 
-puts "gracie" .downcase
+puts "GRACIE" .downcase
