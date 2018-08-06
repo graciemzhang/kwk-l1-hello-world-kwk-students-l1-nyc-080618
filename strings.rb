@@ -1,1 +1,2 @@
-puts "i love kode with klossy" .upcase + "i love kode with klossy" .length
+puts "i love kode with klossy" .upcase
+puts "i love kode with klossy" .length
